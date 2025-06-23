@@ -15,7 +15,7 @@ def tarefa():
     }
 
     # Definir a pasta onde estão os arquivos desorganizados
-    pasta_origem = r"C:\Users\cleve\Downloads"
+    pasta_origem = r"C:\Users\pasta\Downloads"
 
     # Criar as subpastas para organização
     for pasta in categorias.keys():
